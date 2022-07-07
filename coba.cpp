@@ -1,7 +1,7 @@
 #include <iostream>
 
 main(){
-    print("Arman");
+    std::cout << "Arman";
 
     return 0;
 }
